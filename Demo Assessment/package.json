@@ -1,0 +1,22 @@
+{
+  "name": "demo-assessment",
+  "version": "1.0.0",
+  "description": "Demo Assessment - Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:report": "playwright show-report"
+  },
+  "author": "Harmeet Singh Gulati",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "winston": "^3.17.0"
+  }
+}

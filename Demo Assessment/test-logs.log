@@ -1,0 +1,1162 @@
+2024-11-29 01:56:44 [INFO]: Sending GET request to /products
+2024-11-29 01:56:44 [INFO]: Sending POST request to /products/add
+2024-11-29 01:56:44 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 01:56:44 [INFO]: Sending Invalid Endpoint request
+2024-11-29 01:56:45 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 01:56:45 [ERROR]: Error during POST /products/add test
+2024-11-29 01:56:45 [ERROR]: Error during Invalid Endpoint request test
+2024-11-29 01:56:45 [INFO]: GET /products response validated successfully
+2024-11-29 01:56:50 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 01:56:50 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 01:56:50 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 01:56:50 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 01:56:50 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 01:56:50 [INFO]: Starting the test for removing items from cart
+2024-11-29 01:56:50 [INFO]: Successfully removed items from cart
+2024-11-29 01:56:51 [INFO]: Navigating to SauceDemo login page
+2024-11-29 01:56:51 [INFO]: Testing invalid Username login
+2024-11-29 01:56:51 [INFO]: Invalid Username login handled successfully
+2024-11-29 01:56:51 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 01:56:52 [INFO]: Testing invalid Password login
+2024-11-29 01:56:52 [INFO]: Invalid Password login handled successfully
+2024-11-29 01:56:52 [INFO]: Testing Logout
+2024-11-29 01:56:52 [INFO]: Testing Locked Out User login
+2024-11-29 01:56:52 [INFO]: Locked out user login test successfully
+2024-11-29 01:56:53 [INFO]: Sending GET request to /products
+2024-11-29 01:56:53 [INFO]: Logout handled successfully
+2024-11-29 01:56:53 [INFO]: Sending POST request to /products/add
+2024-11-29 01:56:54 [INFO]: GET /products response validated successfully
+2024-11-29 01:56:54 [INFO]: Sending Invalid Endpoint request
+2024-11-29 01:56:54 [ERROR]: Error during Invalid Endpoint request test
+2024-11-29 01:56:54 [ERROR]: Error during POST /products/add test
+2024-11-29 01:56:54 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 01:56:55 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 01:57:00 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 01:57:00 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 01:57:00 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 01:57:00 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 01:57:01 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 01:57:01 [INFO]: Starting the test for removing items from cart
+2024-11-29 01:57:01 [INFO]: Successfully removed items from cart
+2024-11-29 01:57:02 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 01:57:18 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 01:57:20 [ERROR]: Error during the checkout process test
+2024-11-29 01:57:22 [INFO]: Navigating to SauceDemo login page
+2024-11-29 01:57:23 [INFO]: Testing invalid Password login
+2024-11-29 01:57:23 [INFO]: Invalid Password login handled successfully
+2024-11-29 01:57:23 [INFO]: Testing Logout
+2024-11-29 01:57:24 [INFO]: Testing invalid Username login
+2024-11-29 01:57:24 [INFO]: Invalid Username login handled successfully
+2024-11-29 01:57:25 [INFO]: Logout handled successfully
+2024-11-29 01:57:25 [INFO]: Testing Locked Out User login
+2024-11-29 01:57:25 [INFO]: Locked out user login test successfully
+2024-11-29 01:57:25 [INFO]: Sending GET request to /products
+2024-11-29 01:57:26 [INFO]: Sending POST request to /products/add
+2024-11-29 01:57:26 [INFO]: GET /products response validated successfully
+2024-11-29 01:57:26 [INFO]: Sending Invalid Endpoint request
+2024-11-29 01:57:26 [ERROR]: Error during Invalid Endpoint request test
+2024-11-29 01:57:26 [ERROR]: Error during POST /products/add test
+2024-11-29 01:57:27 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 01:57:27 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 01:57:30 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 01:57:32 [ERROR]: Error during the checkout process test
+2024-11-29 01:58:57 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 01:58:57 [INFO]: Sending POST request to /products/add
+2024-11-29 01:58:57 [INFO]: Sending GET request to /products
+2024-11-29 01:58:57 [INFO]: Sending Invalid Endpoint request
+2024-11-29 01:58:58 [ERROR]: Error during POST /products/add test
+2024-11-29 01:58:58 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 01:58:58 [ERROR]: Error during Invalid Endpoint request test
+2024-11-29 01:58:58 [INFO]: GET /products response validated successfully
+2024-11-29 01:59:00 [INFO]: Starting the test for removing items from cart
+2024-11-29 01:59:00 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 01:59:01 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 01:59:01 [INFO]: Successfully removed items from cart
+2024-11-29 01:59:01 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 01:59:01 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 01:59:02 [INFO]: Navigating to SauceDemo login page
+2024-11-29 01:59:02 [INFO]: Testing invalid Username login
+2024-11-29 01:59:02 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 01:59:02 [INFO]: Invalid Username login handled successfully
+2024-11-29 01:59:03 [INFO]: Testing Logout
+2024-11-29 01:59:03 [INFO]: Testing invalid Password login
+2024-11-29 01:59:03 [INFO]: Invalid Password login handled successfully
+2024-11-29 01:59:04 [INFO]: Testing Locked Out User login
+2024-11-29 01:59:04 [INFO]: Locked out user login test successfully
+2024-11-29 01:59:04 [INFO]: Logout handled successfully
+2024-11-29 01:59:04 [INFO]: Sending GET request to /products
+2024-11-29 01:59:04 [INFO]: Sending POST request to /products/add
+2024-11-29 01:59:05 [INFO]: GET /products response validated successfully
+2024-11-29 01:59:05 [INFO]: Sending Invalid Endpoint request
+2024-11-29 01:59:05 [ERROR]: Error during POST /products/add test
+2024-11-29 01:59:05 [ERROR]: Error during Invalid Endpoint request test
+2024-11-29 01:59:05 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 01:59:06 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 01:59:10 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 01:59:10 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 01:59:10 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 01:59:10 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 01:59:11 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 01:59:11 [INFO]: Starting the test for removing items from cart
+2024-11-29 01:59:11 [INFO]: Successfully removed items from cart
+2024-11-29 01:59:12 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 01:59:19 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 01:59:29 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 01:59:31 [ERROR]: Error during the checkout process test
+2024-11-29 01:59:35 [INFO]: Testing invalid Username login
+2024-11-29 01:59:35 [INFO]: Navigating to SauceDemo login page
+2024-11-29 01:59:35 [INFO]: Invalid Username login handled successfully
+2024-11-29 01:59:36 [INFO]: Testing invalid Password login
+2024-11-29 01:59:36 [INFO]: Testing Logout
+2024-11-29 01:59:36 [INFO]: Invalid Password login handled successfully
+2024-11-29 01:59:37 [INFO]: Testing Locked Out User login
+2024-11-29 01:59:37 [INFO]: Locked out user login test successfully
+2024-11-29 01:59:37 [INFO]: Logout handled successfully
+2024-11-29 01:59:40 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 01:59:42 [ERROR]: Error during the checkout process test
+2024-11-29 02:06:40 [INFO]: Sending GET request to /products
+2024-11-29 02:06:40 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:06:40 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:06:40 [INFO]: Sending POST request to /products/add
+2024-11-29 02:06:41 [INFO]: POST /products/add validated successfully
+2024-11-29 02:06:42 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:06:43 [INFO]: GET /products response validated successfully
+2024-11-29 02:06:44 [ERROR]: Error during Invalid Endpoint request test
+2024-11-29 02:06:47 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:06:47 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:06:47 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:06:47 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:06:48 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:06:48 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:06:48 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:06:48 [INFO]: Successfully removed items from cart
+2024-11-29 02:06:48 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:06:48 [INFO]: Testing invalid Username login
+2024-11-29 02:06:48 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:06:49 [INFO]: Testing Logout
+2024-11-29 02:06:49 [INFO]: Testing invalid Password login
+2024-11-29 02:06:49 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:06:50 [INFO]: Testing Locked Out User login
+2024-11-29 02:06:50 [INFO]: Locked out user login test successfully
+2024-11-29 02:06:50 [INFO]: Logout handled successfully
+2024-11-29 02:06:50 [INFO]: Sending GET request to /products
+2024-11-29 02:06:51 [INFO]: Sending POST request to /products/add
+2024-11-29 02:06:51 [INFO]: GET /products response validated successfully
+2024-11-29 02:06:51 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:06:51 [ERROR]: Error during Invalid Endpoint request test
+2024-11-29 02:06:51 [INFO]: POST /products/add validated successfully
+2024-11-29 02:06:52 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:06:52 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:07:04 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:07:04 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:07:05 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:07:06 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:07:07 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:07:08 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:07:08 [INFO]: Successfully removed items from cart
+2024-11-29 02:07:09 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:07:16 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:07:18 [ERROR]: Error during the checkout process test
+2024-11-29 02:07:29 [INFO]: Testing invalid Username login
+2024-11-29 02:07:29 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:07:29 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:07:30 [INFO]: Testing invalid Password login
+2024-11-29 02:07:31 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:07:32 [INFO]: Testing Logout
+2024-11-29 02:07:32 [INFO]: Testing Locked Out User login
+2024-11-29 02:07:32 [INFO]: Locked out user login test successfully
+2024-11-29 02:07:33 [INFO]: Logout handled successfully
+2024-11-29 02:07:35 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:07:38 [ERROR]: Error during the checkout process test
+2024-11-29 02:08:44 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:08:44 [INFO]: Sending GET request to /products
+2024-11-29 02:08:44 [INFO]: Sending POST request to /products/add
+2024-11-29 02:08:44 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:08:45 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:08:45 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:08:45 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:08:46 [INFO]: POST /products/add validated successfully
+2024-11-29 02:08:47 [INFO]: GET /products response validated successfully
+2024-11-29 02:08:47 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:08:47 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:08:47 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:08:47 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:08:48 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:08:48 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:08:48 [INFO]: Successfully removed items from cart
+2024-11-29 02:08:48 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:08:48 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:08:49 [INFO]: Testing invalid Username login
+2024-11-29 02:08:49 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:08:49 [INFO]: Testing invalid Password login
+2024-11-29 02:08:49 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:08:49 [INFO]: Testing Logout
+2024-11-29 02:08:49 [INFO]: Testing Locked Out User login
+2024-11-29 02:08:50 [INFO]: Locked out user login test successfully
+2024-11-29 02:08:50 [INFO]: Sending GET request to /products
+2024-11-29 02:08:50 [INFO]: Logout handled successfully
+2024-11-29 02:08:50 [INFO]: Sending POST request to /products/add
+2024-11-29 02:08:51 [INFO]: GET /products response validated successfully
+2024-11-29 02:08:51 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:08:51 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:08:51 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:08:51 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:08:51 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:08:51 [INFO]: POST /products/add validated successfully
+2024-11-29 02:08:55 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:08:55 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:08:55 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:08:55 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:08:56 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:08:56 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:08:56 [INFO]: Successfully removed items from cart
+2024-11-29 02:08:57 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:09:18 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:09:18 [ERROR]: Error during the checkout process test
+2024-11-29 02:09:25 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:09:27 [ERROR]: Error during the checkout process test
+2024-11-29 02:09:31 [INFO]: Testing invalid Username login
+2024-11-29 02:09:32 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:09:33 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:09:33 [INFO]: Testing invalid Password login
+2024-11-29 02:09:35 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:09:35 [INFO]: Testing Locked Out User login
+2024-11-29 02:09:36 [INFO]: Locked out user login test successfully
+2024-11-29 02:09:36 [INFO]: Testing Logout
+2024-11-29 02:09:38 [INFO]: Logout handled successfully
+2024-11-29 02:11:22 [INFO]: Sending GET request to /products
+2024-11-29 02:11:22 [INFO]: Sending POST request to /products/add
+2024-11-29 02:11:22 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:11:22 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:11:23 [INFO]: GET /products response validated successfully
+2024-11-29 02:11:23 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:11:23 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:11:23 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:11:23 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:11:23 [INFO]: POST /products/add validated successfully
+2024-11-29 02:11:23 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:11:25 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:11:25 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:11:25 [INFO]: Successfully removed items from cart
+2024-11-29 02:11:26 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:11:26 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:11:26 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:11:26 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:11:27 [INFO]: Testing invalid Username login
+2024-11-29 02:11:27 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:11:27 [INFO]: Testing invalid Password login
+2024-11-29 02:11:28 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:11:28 [INFO]: Testing Logout
+2024-11-29 02:11:29 [INFO]: Logout handled successfully
+2024-11-29 02:11:30 [INFO]: Testing Locked Out User login
+2024-11-29 02:11:30 [INFO]: Locked out user login test successfully
+2024-11-29 02:11:30 [INFO]: Sending GET request to /products
+2024-11-29 02:11:31 [INFO]: GET /products response validated successfully
+2024-11-29 02:11:31 [INFO]: Sending POST request to /products/add
+2024-11-29 02:11:31 [INFO]: POST /products/add validated successfully
+2024-11-29 02:11:31 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:11:32 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:11:32 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:11:32 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:11:32 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:11:32 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:11:33 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:11:37 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:11:37 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:11:38 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:11:38 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:11:38 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:11:44 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:11:44 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:11:48 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:11:48 [INFO]: Successfully removed items from cart
+2024-11-29 02:11:49 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:11:54 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:11:56 [ERROR]: Error during the checkout process test
+2024-11-29 02:11:58 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:11:59 [INFO]: Testing invalid Password login
+2024-11-29 02:11:59 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:11:59 [INFO]: Testing invalid Username login
+2024-11-29 02:12:00 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:12:00 [INFO]: Testing Logout
+2024-11-29 02:12:00 [INFO]: Testing Locked Out User login
+2024-11-29 02:12:00 [INFO]: Locked out user login test successfully
+2024-11-29 02:12:01 [INFO]: Logout handled successfully
+2024-11-29 02:12:08 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:12:18 [ERROR]: Error during the checkout process test
+2024-11-29 02:20:07 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:20:07 [INFO]: Sending GET request to /products
+2024-11-29 02:20:07 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:20:07 [INFO]: Sending POST request to /products/add
+2024-11-29 02:20:08 [INFO]: POST /products/add validated successfully
+2024-11-29 02:20:08 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:20:08 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:20:08 [INFO]: GET /products response validated successfully
+2024-11-29 02:20:09 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:20:11 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:20:11 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:20:11 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:20:12 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:20:12 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:20:12 [INFO]: Successfully removed items from cart
+2024-11-29 02:20:13 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:20:13 [INFO]: Testing invalid Username login
+2024-11-29 02:20:13 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:20:14 [INFO]: Testing invalid Password login
+2024-11-29 02:20:14 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:20:14 [INFO]: Testing Logout
+2024-11-29 02:20:15 [INFO]: Logout handled successfully
+2024-11-29 02:20:16 [INFO]: Testing Locked Out User login
+2024-11-29 02:20:16 [INFO]: Locked out user login test successfully
+2024-11-29 02:20:16 [INFO]: Sending GET request to /products
+2024-11-29 02:20:17 [INFO]: GET /products response validated successfully
+2024-11-29 02:20:17 [INFO]: Sending POST request to /products/add
+2024-11-29 02:20:17 [INFO]: POST /products/add validated successfully
+2024-11-29 02:20:17 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:20:18 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:20:18 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:20:18 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:20:18 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:20:22 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:20:22 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:20:22 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:20:22 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:20:23 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:20:29 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:20:30 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:20:33 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:20:33 [INFO]: Successfully removed items from cart
+2024-11-29 02:20:34 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:20:40 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:20:41 [ERROR]: Error during the checkout process test
+2024-11-29 02:20:44 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:20:45 [INFO]: Testing invalid Password login
+2024-11-29 02:20:45 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:20:45 [INFO]: Testing invalid Username login
+2024-11-29 02:20:45 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:20:46 [INFO]: Testing Locked Out User login
+2024-11-29 02:20:46 [INFO]: Testing Logout
+2024-11-29 02:20:46 [INFO]: Locked out user login test successfully
+2024-11-29 02:20:47 [INFO]: Logout handled successfully
+2024-11-29 02:20:53 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:21:03 [ERROR]: Error during the checkout process test
+2024-11-29 02:24:28 [INFO]: Sending POST request to /products/add
+2024-11-29 02:24:28 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:24:28 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:24:28 [INFO]: Sending GET request to /products
+2024-11-29 02:24:29 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:24:29 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:24:29 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:24:29 [INFO]: GET /products response validated successfully
+2024-11-29 02:24:30 [INFO]: POST /products/add validated successfully
+2024-11-29 02:24:32 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:24:32 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:24:32 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:24:32 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:24:32 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:24:32 [INFO]: Successfully removed items from cart
+2024-11-29 02:24:33 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:24:33 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:24:33 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:24:33 [INFO]: Testing invalid Username login
+2024-11-29 02:24:33 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:24:33 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:24:34 [INFO]: Testing Logout
+2024-11-29 02:24:34 [INFO]: Testing Locked Out User login
+2024-11-29 02:24:34 [INFO]: Locked out user login test successfully
+2024-11-29 02:24:34 [INFO]: Sending GET request to /products
+2024-11-29 02:24:34 [INFO]: Testing invalid Password login
+2024-11-29 02:24:34 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:24:35 [INFO]: Sending POST request to /products/add
+2024-11-29 02:24:35 [INFO]: Logout handled successfully
+2024-11-29 02:24:35 [INFO]: GET /products response validated successfully
+2024-11-29 02:24:35 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:24:35 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:24:35 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:24:35 [INFO]: POST /products/add validated successfully
+2024-11-29 02:24:36 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:24:36 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:24:40 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:24:40 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:24:40 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:24:40 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:24:41 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:24:41 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:24:42 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:24:42 [INFO]: Successfully removed items from cart
+2024-11-29 02:24:42 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:24:43 [INFO]: Testing invalid Username login
+2024-11-29 02:24:43 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:24:44 [INFO]: Testing invalid Password login
+2024-11-29 02:24:44 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:24:45 [INFO]: Testing Logout
+2024-11-29 02:24:45 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:24:46 [INFO]: Testing Locked Out User login
+2024-11-29 02:24:46 [INFO]: Locked out user login test successfully
+2024-11-29 02:24:47 [INFO]: Logout handled successfully
+2024-11-29 02:25:03 [ERROR]: Error during the checkout process test
+2024-11-29 02:25:11 [ERROR]: Error during the checkout process test
+2024-11-29 02:25:55 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:25:55 [INFO]: Sending POST request to /products/add
+2024-11-29 02:25:55 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:25:55 [INFO]: Sending GET request to /products
+2024-11-29 02:25:56 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:25:56 [INFO]: GET /products response validated successfully
+2024-11-29 02:25:56 [INFO]: POST /products/add validated successfully
+2024-11-29 02:25:57 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:25:57 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:25:59 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:25:59 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:25:59 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:25:59 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:25:59 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:25:59 [INFO]: Successfully removed items from cart
+2024-11-29 02:25:59 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:26:00 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:26:00 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:26:00 [INFO]: Testing invalid Username login
+2024-11-29 02:26:00 [INFO]: Testing invalid Password login
+2024-11-29 02:26:00 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:26:00 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:26:01 [INFO]: Testing Logout
+2024-11-29 02:26:01 [INFO]: Testing Locked Out User login
+2024-11-29 02:26:01 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:26:01 [INFO]: Locked out user login test successfully
+2024-11-29 02:26:01 [INFO]: Sending GET request to /products
+2024-11-29 02:26:02 [INFO]: Sending POST request to /products/add
+2024-11-29 02:26:02 [INFO]: Logout handled successfully
+2024-11-29 02:26:02 [INFO]: GET /products response validated successfully
+2024-11-29 02:26:02 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:26:02 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:26:02 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:26:03 [INFO]: POST /products/add validated successfully
+2024-11-29 02:26:03 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:26:03 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:26:13 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:26:13 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:26:13 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:26:13 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:26:13 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:26:14 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:26:15 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:26:15 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:26:15 [INFO]: Successfully removed items from cart
+2024-11-29 02:26:16 [INFO]: Testing invalid Username login
+2024-11-29 02:26:16 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:26:17 [INFO]: Testing invalid Password login
+2024-11-29 02:26:17 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:26:20 [INFO]: Testing Logout
+2024-11-29 02:26:21 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:26:22 [INFO]: Testing Locked Out User login
+2024-11-29 02:26:22 [INFO]: Locked out user login test successfully
+2024-11-29 02:26:22 [INFO]: Logout handled successfully
+2024-11-29 02:26:29 [ERROR]: Error during the checkout process test
+2024-11-29 02:26:44 [ERROR]: Error during the checkout process test
+2024-11-29 02:28:51 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:28:51 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:28:51 [INFO]: Sending GET request to /products
+2024-11-29 02:28:51 [INFO]: Sending POST request to /products/add
+2024-11-29 02:28:52 [INFO]: GET /products response validated successfully
+2024-11-29 02:28:52 [INFO]: POST /products/add validated successfully
+2024-11-29 02:28:52 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:28:53 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:28:53 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:28:55 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:28:55 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:28:56 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:29:14 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:29:24 [ERROR]: Error during Product Sorting by Name A to Z test
+2024-11-29 02:29:24 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:29:24 [ERROR]: Error during removing items from cart test
+2024-11-29 02:29:24 [ERROR]: Error during Product Sorting Price High to Low test
+2024-11-29 02:29:26 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:29:27 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:29:27 [INFO]: Testing invalid Password login
+2024-11-29 02:29:27 [INFO]: Testing invalid Username login
+2024-11-29 02:29:27 [INFO]: Testing Logout
+2024-11-29 02:29:28 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:29:28 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:29:28 [INFO]: Sending GET request to /products
+2024-11-29 02:29:28 [INFO]: Testing Locked Out User login
+2024-11-29 02:29:28 [INFO]: Locked out user login test successfully
+2024-11-29 02:29:29 [INFO]: Sending POST request to /products/add
+2024-11-29 02:29:29 [INFO]: Logout handled successfully
+2024-11-29 02:29:29 [INFO]: GET /products response validated successfully
+2024-11-29 02:29:29 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:29:29 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:29:29 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:29:29 [INFO]: POST /products/add validated successfully
+2024-11-29 02:29:30 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:29:30 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:29:35 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:29:35 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:29:35 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:29:56 [ERROR]: Error during the checkout process test
+2024-11-29 02:30:00 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:30:02 [ERROR]: Error during Product Sorting Price High to Low test
+2024-11-29 02:30:02 [ERROR]: Error during Product Sorting by Name A to Z test
+2024-11-29 02:30:02 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:30:06 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:30:07 [INFO]: Testing invalid Username login
+2024-11-29 02:30:08 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:30:08 [INFO]: Testing invalid Password login
+2024-11-29 02:30:08 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:30:09 [INFO]: Testing Logout
+2024-11-29 02:30:10 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:30:11 [INFO]: Logout handled successfully
+2024-11-29 02:30:11 [INFO]: Testing Locked Out User login
+2024-11-29 02:30:11 [INFO]: Locked out user login test successfully
+2024-11-29 02:30:28 [ERROR]: Error during removing items from cart test
+2024-11-29 02:30:35 [ERROR]: Error during the checkout process test
+2024-11-29 02:31:53 [INFO]: Sending GET request to /products
+2024-11-29 02:31:53 [INFO]: Sending POST request to /products/add
+2024-11-29 02:31:53 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:31:53 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:31:53 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:31:53 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:31:53 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:31:54 [INFO]: GET /products response validated successfully
+2024-11-29 02:31:54 [INFO]: POST /products/add validated successfully
+2024-11-29 02:31:57 [INFO]: Testing invalid Password login
+2024-11-29 02:31:57 [INFO]: Testing invalid Username login
+2024-11-29 02:31:57 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:31:58 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:31:58 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:31:58 [INFO]: Testing Logout
+2024-11-29 02:31:58 [INFO]: Sending GET request to /products
+2024-11-29 02:31:58 [INFO]: Testing Locked Out User login
+2024-11-29 02:31:58 [INFO]: Sending POST request to /products/add
+2024-11-29 02:31:58 [INFO]: Locked out user login test successfully
+2024-11-29 02:31:59 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:31:59 [INFO]: GET /products response validated successfully
+2024-11-29 02:31:59 [INFO]: POST /products/add validated successfully
+2024-11-29 02:31:59 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:31:59 [INFO]: Logout handled successfully
+2024-11-29 02:31:59 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:31:59 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:31:59 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:32:05 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:32:06 [INFO]: Testing invalid Username login
+2024-11-29 02:32:06 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:32:07 [INFO]: Testing invalid Password login
+2024-11-29 02:32:07 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:32:08 [INFO]: Testing Locked Out User login
+2024-11-29 02:32:08 [INFO]: Testing Logout
+2024-11-29 02:32:08 [INFO]: Locked out user login test successfully
+2024-11-29 02:32:09 [INFO]: Logout handled successfully
+2024-11-29 02:33:10 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:33:10 [INFO]: Sending GET request to /products
+2024-11-29 02:33:10 [INFO]: Sending POST request to /products/add
+2024-11-29 02:33:10 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:33:10 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:33:10 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:33:10 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:33:10 [INFO]: POST /products/add validated successfully
+2024-11-29 02:33:11 [INFO]: GET /products response validated successfully
+2024-11-29 02:33:13 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:33:13 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:33:13 [INFO]: Successfully removed items from cart
+2024-11-29 02:33:13 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:33:13 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:33:13 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:33:13 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:33:13 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:33:14 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:33:14 [INFO]: Testing invalid Username login
+2024-11-29 02:33:14 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:33:15 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:33:15 [INFO]: Testing Locked Out User login
+2024-11-29 02:33:15 [INFO]: Testing Logout
+2024-11-29 02:33:15 [INFO]: Locked out user login test successfully
+2024-11-29 02:33:15 [INFO]: Testing invalid Password login
+2024-11-29 02:33:15 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:33:16 [INFO]: Sending GET request to /products
+2024-11-29 02:33:16 [INFO]: Sending POST request to /products/add
+2024-11-29 02:33:16 [INFO]: Logout handled successfully
+2024-11-29 02:33:16 [INFO]: GET /products response validated successfully
+2024-11-29 02:33:16 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:33:16 [INFO]: POST /products/add validated successfully
+2024-11-29 02:33:16 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:33:16 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:33:17 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:33:17 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:33:20 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:33:20 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:33:20 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:33:20 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:33:21 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:33:21 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:33:21 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:33:21 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:33:21 [INFO]: Successfully removed items from cart
+2024-11-29 02:33:22 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:33:23 [INFO]: Testing invalid Password login
+2024-11-29 02:33:23 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:33:24 [INFO]: Testing Logout
+2024-11-29 02:33:24 [INFO]: Testing invalid Username login
+2024-11-29 02:33:24 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:33:25 [INFO]: Testing Locked Out User login
+2024-11-29 02:33:25 [INFO]: Locked out user login test successfully
+2024-11-29 02:33:25 [INFO]: Logout handled successfully
+2024-11-29 02:33:43 [ERROR]: Error during the checkout process test
+2024-11-29 02:33:50 [ERROR]: Error during the checkout process test
+2024-11-29 02:36:43 [INFO]: Sending GET request to /products
+2024-11-29 02:36:43 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:36:43 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:36:43 [INFO]: Sending POST request to /products/add
+2024-11-29 02:36:43 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:36:43 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:36:43 [INFO]: POST /products/add validated successfully
+2024-11-29 02:36:44 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:36:44 [INFO]: GET /products response validated successfully
+2024-11-29 02:36:46 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:36:46 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:36:46 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:36:46 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:36:47 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:36:47 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:36:47 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:36:47 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:36:47 [ERROR]: Error during removing items from cart test
+2024-11-29 02:36:47 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:36:48 [INFO]: Testing invalid Password login
+2024-11-29 02:36:48 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:36:48 [INFO]: Testing invalid Username login
+2024-11-29 02:36:48 [INFO]: Testing Logout
+2024-11-29 02:36:48 [INFO]: Testing Locked Out User login
+2024-11-29 02:36:48 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:36:49 [INFO]: Locked out user login test successfully
+2024-11-29 02:36:49 [INFO]: Sending GET request to /products
+2024-11-29 02:36:49 [INFO]: Sending POST request to /products/add
+2024-11-29 02:36:49 [INFO]: Logout handled successfully
+2024-11-29 02:36:50 [INFO]: GET /products response validated successfully
+2024-11-29 02:36:50 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:36:50 [INFO]: POST /products/add validated successfully
+2024-11-29 02:36:50 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:36:50 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:36:51 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:36:51 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:36:55 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:36:55 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:36:55 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:36:56 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:36:56 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:36:56 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:36:56 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:36:56 [ERROR]: Error during removing items from cart test
+2024-11-29 02:36:57 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:36:59 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:37:00 [INFO]: Testing invalid Password login
+2024-11-29 02:37:00 [INFO]: Testing invalid Username login
+2024-11-29 02:37:01 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:37:01 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:37:01 [INFO]: Testing Logout
+2024-11-29 02:37:01 [INFO]: Testing Locked Out User login
+2024-11-29 02:37:02 [INFO]: Locked out user login test successfully
+2024-11-29 02:37:02 [INFO]: Logout handled successfully
+2024-11-29 02:37:16 [ERROR]: Error during the checkout process test
+2024-11-29 02:37:26 [ERROR]: Error during the checkout process test
+2024-11-29 02:45:27 [INFO]: Sending GET request to /products
+2024-11-29 02:45:27 [INFO]: Sending POST request to /products/add
+2024-11-29 02:45:27 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:45:27 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:45:28 [INFO]: POST /products/add validated successfully
+2024-11-29 02:45:28 [INFO]: GET /products response validated successfully
+2024-11-29 02:45:28 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:45:28 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:45:28 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:45:30 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:45:30 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:45:30 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:45:31 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:45:31 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:45:31 [INFO]: Successfully removed items from cart
+2024-11-29 02:45:31 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:45:31 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:45:31 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:45:32 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:45:32 [INFO]: Testing invalid Password login
+2024-11-29 02:45:32 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:45:32 [INFO]: Testing Logout
+2024-11-29 02:45:33 [INFO]: Testing Locked Out User login
+2024-11-29 02:45:33 [INFO]: Testing invalid Username login
+2024-11-29 02:45:33 [INFO]: Locked out user login test successfully
+2024-11-29 02:45:33 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:45:33 [INFO]: Sending GET request to /products
+2024-11-29 02:45:33 [INFO]: Sending POST request to /products/add
+2024-11-29 02:45:34 [INFO]: Logout handled successfully
+2024-11-29 02:45:34 [INFO]: GET /products response validated successfully
+2024-11-29 02:45:34 [INFO]: POST /products/add validated successfully
+2024-11-29 02:45:34 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:45:34 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:45:34 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:45:35 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:45:35 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:45:39 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:45:39 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:45:39 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:45:39 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:45:40 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:45:40 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:45:40 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:45:40 [INFO]: Successfully removed items from cart
+2024-11-29 02:45:41 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:45:41 [INFO]: Testing invalid Username login
+2024-11-29 02:45:42 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:45:42 [INFO]: Testing invalid Password login
+2024-11-29 02:45:43 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:45:43 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:45:43 [INFO]: Testing Logout
+2024-11-29 02:45:44 [INFO]: Testing Locked Out User login
+2024-11-29 02:45:44 [INFO]: Locked out user login test successfully
+2024-11-29 02:45:44 [INFO]: Logout handled successfully
+2024-11-29 02:46:01 [ERROR]: Error during the checkout process test
+2024-11-29 02:46:10 [ERROR]: Error during the checkout process test
+2024-11-29 02:46:40 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:46:40 [INFO]: Sending POST request to /products/add
+2024-11-29 02:46:40 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:46:40 [INFO]: Sending GET request to /products
+2024-11-29 02:46:41 [INFO]: POST /products/add validated successfully
+2024-11-29 02:46:41 [INFO]: GET /products response validated successfully
+2024-11-29 02:46:41 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:46:41 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:46:41 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:46:43 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:46:43 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:46:43 [INFO]: Successfully removed items from cart
+2024-11-29 02:46:43 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:46:43 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:46:43 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:46:44 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:46:44 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:46:44 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:46:44 [INFO]: Testing invalid Username login
+2024-11-29 02:46:44 [INFO]: Testing invalid Password login
+2024-11-29 02:46:44 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:46:44 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:46:45 [INFO]: Testing Logout
+2024-11-29 02:46:45 [INFO]: Testing Locked Out User login
+2024-11-29 02:46:45 [INFO]: Locked out user login test successfully
+2024-11-29 02:46:45 [INFO]: Sending GET request to /products
+2024-11-29 02:46:46 [INFO]: Logout handled successfully
+2024-11-29 02:46:46 [INFO]: GET /products response validated successfully
+2024-11-29 02:46:46 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:46:46 [INFO]: Sending POST request to /products/add
+2024-11-29 02:46:46 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:46:46 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:46:46 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:46:47 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:46:47 [INFO]: POST /products/add validated successfully
+2024-11-29 02:46:50 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:46:50 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:46:51 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:46:51 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:46:51 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:46:52 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:46:52 [INFO]: Successfully removed items from cart
+2024-11-29 02:46:53 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:47:12 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:47:13 [ERROR]: Error during the checkout process test
+2024-11-29 02:47:15 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:47:16 [INFO]: Testing invalid Password login
+2024-11-29 02:47:16 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:47:17 [INFO]: Testing Logout
+2024-11-29 02:47:17 [INFO]: Testing invalid Username login
+2024-11-29 02:47:17 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:47:18 [INFO]: Testing Locked Out User login
+2024-11-29 02:47:18 [INFO]: Logout handled successfully
+2024-11-29 02:47:18 [INFO]: Locked out user login test successfully
+2024-11-29 02:47:21 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:47:22 [ERROR]: Error during the checkout process test
+2024-11-29 02:49:30 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:49:30 [INFO]: Sending POST request to /products/add
+2024-11-29 02:49:30 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:49:30 [INFO]: Sending GET request to /products
+2024-11-29 02:49:30 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:49:30 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:49:30 [INFO]: POST /products/add validated successfully
+2024-11-29 02:49:30 [INFO]: GET /products response validated successfully
+2024-11-29 02:49:31 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:49:34 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:49:34 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:49:34 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:49:35 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:49:35 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:49:35 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:49:35 [INFO]: Successfully removed items from cart
+2024-11-29 02:49:35 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:49:35 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:49:36 [INFO]: Testing invalid Username login
+2024-11-29 02:49:36 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:49:36 [INFO]: Testing invalid Password login
+2024-11-29 02:49:36 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:49:37 [INFO]: Testing Locked Out User login
+2024-11-29 02:49:37 [INFO]: Testing Logout
+2024-11-29 02:49:37 [INFO]: Locked out user login test successfully
+2024-11-29 02:49:38 [INFO]: Sending GET request to /products
+2024-11-29 02:49:39 [INFO]: Logout handled successfully
+2024-11-29 02:49:39 [INFO]: Sending POST request to /products/add
+2024-11-29 02:49:39 [INFO]: GET /products response validated successfully
+2024-11-29 02:49:39 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:49:40 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:49:40 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:49:40 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:49:40 [INFO]: POST /products/add validated successfully
+2024-11-29 02:49:40 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:49:44 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:49:44 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:49:44 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:49:44 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:49:45 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:49:45 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:49:46 [INFO]: Successfully removed items from cart
+2024-11-29 02:49:46 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:50:03 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:50:05 [ERROR]: Error during the checkout process test
+2024-11-29 02:50:10 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:50:11 [INFO]: Testing invalid Password login
+2024-11-29 02:50:11 [INFO]: Testing invalid Username login
+2024-11-29 02:50:11 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:50:11 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:50:12 [INFO]: Testing Logout
+2024-11-29 02:50:12 [INFO]: Testing Locked Out User login
+2024-11-29 02:50:12 [INFO]: Locked out user login test successfully
+2024-11-29 02:50:13 [INFO]: Logout handled successfully
+2024-11-29 02:50:15 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:50:16 [ERROR]: Error during the checkout process test
+2024-11-29 02:51:22 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:51:22 [INFO]: Sending GET request to /products
+2024-11-29 02:51:22 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:51:22 [INFO]: Sending POST request to /products/add
+2024-11-29 02:51:22 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:51:22 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:51:23 [INFO]: GET /products response validated successfully
+2024-11-29 02:51:23 [INFO]: POST /products/add validated successfully
+2024-11-29 02:51:23 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:51:27 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:51:27 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:51:27 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:51:27 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:51:28 [INFO]: Successfully removed items from cart
+2024-11-29 02:51:28 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:51:28 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:51:28 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:51:28 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:51:28 [INFO]: Testing invalid Username login
+2024-11-29 02:51:29 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:51:29 [INFO]: Testing invalid Password login
+2024-11-29 02:51:29 [INFO]: Testing Logout
+2024-11-29 02:51:29 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:51:30 [INFO]: Testing Locked Out User login
+2024-11-29 02:51:30 [INFO]: Locked out user login test successfully
+2024-11-29 02:51:30 [INFO]: Logout handled successfully
+2024-11-29 02:51:30 [INFO]: Sending GET request to /products
+2024-11-29 02:51:30 [INFO]: Sending POST request to /products/add
+2024-11-29 02:51:31 [INFO]: GET /products response validated successfully
+2024-11-29 02:51:31 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:51:31 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:51:31 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:51:31 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:51:31 [INFO]: POST /products/add validated successfully
+2024-11-29 02:51:31 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:51:35 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:51:35 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:51:36 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:51:36 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:51:36 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:51:37 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:51:37 [INFO]: Successfully removed items from cart
+2024-11-29 02:51:38 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:51:56 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:51:58 [ERROR]: Error during the checkout process test
+2024-11-29 02:52:10 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:52:12 [INFO]: Testing invalid Username login
+2024-11-29 02:52:12 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:52:13 [ERROR]: Error during the checkout process test
+2024-11-29 02:52:21 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:52:24 [INFO]: Testing Locked Out User login
+2024-11-29 02:52:24 [INFO]: Locked out user login test successfully
+2024-11-29 02:52:28 [INFO]: Testing invalid Password login
+2024-11-29 02:52:28 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:52:28 [INFO]: Testing Logout
+2024-11-29 02:52:29 [INFO]: Logout handled successfully
+2024-11-29 02:54:54 [INFO]: Sending GET request to /products
+2024-11-29 02:54:54 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:54:54 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:54:55 [INFO]: Sending POST request to /products/add
+2024-11-29 02:54:55 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:54:55 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:54:55 [INFO]: POST /products/add validated successfully
+2024-11-29 02:54:56 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:54:56 [INFO]: GET /products response validated successfully
+2024-11-29 02:55:00 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:55:00 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:55:00 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:55:00 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:55:00 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:55:00 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:55:00 [INFO]: Successfully removed items from cart
+2024-11-29 02:55:01 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:55:02 [INFO]: Testing invalid Username login
+2024-11-29 02:55:02 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:55:02 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:55:03 [INFO]: Testing invalid Password login
+2024-11-29 02:55:03 [INFO]: Testing Logout
+2024-11-29 02:55:03 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:55:04 [INFO]: Testing Locked Out User login
+2024-11-29 02:55:04 [INFO]: Locked out user login test successfully
+2024-11-29 02:55:04 [INFO]: Logout handled successfully
+2024-11-29 02:55:05 [INFO]: Sending GET request to /products
+2024-11-29 02:55:05 [INFO]: Sending POST request to /products/add
+2024-11-29 02:55:06 [INFO]: GET /products response validated successfully
+2024-11-29 02:55:06 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:55:06 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:55:06 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:55:06 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:55:06 [INFO]: POST /products/add validated successfully
+2024-11-29 02:55:06 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:55:16 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:55:16 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:55:16 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:55:16 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:55:17 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:55:17 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:55:18 [INFO]: Successfully removed items from cart
+2024-11-29 02:55:18 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:55:27 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:55:30 [ERROR]: Error during the checkout process test
+2024-11-29 02:55:30 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:55:31 [INFO]: Testing invalid Username login
+2024-11-29 02:55:31 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:55:32 [INFO]: Testing Logout
+2024-11-29 02:55:33 [INFO]: Logout handled successfully
+2024-11-29 02:55:34 [INFO]: Testing invalid Password login
+2024-11-29 02:55:34 [INFO]: Testing Locked Out User login
+2024-11-29 02:55:34 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:55:34 [INFO]: Locked out user login test successfully
+2024-11-29 02:55:46 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:55:48 [ERROR]: Error during the checkout process test
+2024-11-29 02:57:49 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:57:49 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:57:49 [INFO]: Sending GET request to /products
+2024-11-29 02:57:49 [INFO]: Sending POST request to /products/add
+2024-11-29 02:57:50 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:57:51 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:57:51 [INFO]: GET /products response validated successfully
+2024-11-29 02:57:51 [INFO]: POST /products/add validated successfully
+2024-11-29 02:57:51 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:57:55 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:57:55 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:57:55 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:57:55 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:57:55 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:57:56 [INFO]: Successfully removed items from cart
+2024-11-29 02:57:56 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:57:56 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:57:56 [INFO]: Testing invalid Password login
+2024-11-29 02:57:56 [INFO]: Testing invalid Username login
+2024-11-29 02:57:56 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:57:57 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:57:57 [INFO]: Testing Logout
+2024-11-29 02:57:57 [INFO]: Testing Locked Out User login
+2024-11-29 02:57:57 [INFO]: Locked out user login test successfully
+2024-11-29 02:57:58 [INFO]: Sending GET request to /products
+2024-11-29 02:57:58 [INFO]: Logout handled successfully
+2024-11-29 02:57:58 [INFO]: Sending POST request to /products/add
+2024-11-29 02:57:58 [INFO]: GET /products response validated successfully
+2024-11-29 02:57:58 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:57:59 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:57:59 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:57:59 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:57:59 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:57:59 [INFO]: POST /products/add validated successfully
+2024-11-29 02:58:07 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:58:07 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:58:07 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:58:07 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:58:08 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:58:08 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:58:08 [INFO]: Successfully removed items from cart
+2024-11-29 02:58:09 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:58:14 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:58:24 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:58:26 [ERROR]: Error during the checkout process test
+2024-11-29 02:58:28 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:58:29 [INFO]: Testing invalid Password login
+2024-11-29 02:58:29 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:58:29 [INFO]: Testing invalid Username login
+2024-11-29 02:58:29 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:58:30 [INFO]: Testing Logout
+2024-11-29 02:58:30 [INFO]: Testing Locked Out User login
+2024-11-29 02:58:30 [INFO]: Locked out user login test successfully
+2024-11-29 02:58:31 [INFO]: Logout handled successfully
+2024-11-29 02:58:37 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 02:58:38 [ERROR]: Error during the checkout process test
+2024-11-29 02:59:43 [INFO]: Sending POST request to /products/add
+2024-11-29 02:59:43 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:59:43 [INFO]: Sending GET request to /products
+2024-11-29 02:59:43 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:59:44 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:59:44 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:59:44 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:59:44 [INFO]: GET /products response validated successfully
+2024-11-29 02:59:45 [INFO]: POST /products/add validated successfully
+2024-11-29 02:59:47 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:59:47 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:59:47 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:59:47 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:59:48 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:59:48 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:59:48 [INFO]: Successfully removed items from cart
+2024-11-29 02:59:48 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:59:49 [INFO]: Testing invalid Username login
+2024-11-29 02:59:49 [INFO]: Testing invalid Password login
+2024-11-29 02:59:49 [ERROR]: Error during the checkout process test
+2024-11-29 02:59:49 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:59:49 [INFO]: Invalid Password login handled successfully
+2024-11-29 02:59:49 [INFO]: Sending GET request to /products
+2024-11-29 02:59:49 [INFO]: Testing Logout
+2024-11-29 02:59:50 [INFO]: Testing Locked Out User login
+2024-11-29 02:59:50 [INFO]: Locked out user login test successfully
+2024-11-29 02:59:50 [INFO]: GET /products response validated successfully
+2024-11-29 02:59:50 [INFO]: Sending POST request to /products/add
+2024-11-29 02:59:50 [INFO]: POST /products/add validated successfully
+2024-11-29 02:59:50 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 02:59:50 [INFO]: Sending Invalid Endpoint request
+2024-11-29 02:59:50 [INFO]: Logout handled successfully
+2024-11-29 02:59:50 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 02:59:51 [WARN]: No response body returned for invalid endpoint
+2024-11-29 02:59:51 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 02:59:54 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 02:59:54 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 02:59:54 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 02:59:55 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 02:59:55 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 02:59:55 [INFO]: Starting the test for removing items from cart
+2024-11-29 02:59:56 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 02:59:56 [INFO]: Successfully removed items from cart
+2024-11-29 02:59:56 [ERROR]: Error during the checkout process test
+2024-11-29 02:59:56 [INFO]: Navigating to SauceDemo login page
+2024-11-29 02:59:57 [INFO]: Testing invalid Username login
+2024-11-29 02:59:58 [INFO]: Invalid Username login handled successfully
+2024-11-29 02:59:58 [INFO]: Testing Logout
+2024-11-29 02:59:59 [INFO]: Logout handled successfully
+2024-11-29 02:59:59 [INFO]: Testing invalid Password login
+2024-11-29 03:00:00 [INFO]: Invalid Password login handled successfully
+2024-11-29 03:00:00 [INFO]: Testing Locked Out User login
+2024-11-29 03:00:01 [INFO]: Locked out user login test successfully
+2024-11-29 03:00:05 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 03:00:16 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 03:00:22 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 03:03:36 [INFO]: Sending Invalid Endpoint request
+2024-11-29 03:03:36 [INFO]: Sending GET request to /products
+2024-11-29 03:03:36 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 03:03:36 [INFO]: Sending POST request to /products/add
+2024-11-29 03:03:37 [INFO]: GET /products response validated successfully
+2024-11-29 03:03:37 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 03:03:37 [WARN]: No response body returned for invalid endpoint
+2024-11-29 03:03:37 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 03:03:37 [INFO]: POST /products/add validated successfully
+2024-11-29 03:03:40 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 03:03:40 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 03:03:40 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 03:03:40 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 03:03:40 [INFO]: Navigating to SauceDemo login page
+2024-11-29 03:03:40 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 03:03:41 [INFO]: Starting the test for removing items from cart
+2024-11-29 03:03:41 [INFO]: Successfully removed items from cart
+2024-11-29 03:03:41 [INFO]: Successfully Validated the complete checkout process
+2024-11-29 03:03:41 [INFO]: Testing invalid Username login
+2024-11-29 03:03:41 [INFO]: Invalid Username login handled successfully
+2024-11-29 03:03:41 [INFO]: Testing invalid Password login
+2024-11-29 03:03:41 [INFO]: Testing Logout
+2024-11-29 03:03:41 [INFO]: Invalid Password login handled successfully
+2024-11-29 03:03:42 [INFO]: Testing Locked Out User login
+2024-11-29 03:03:42 [INFO]: Locked out user login test successfully
+2024-11-29 03:03:42 [INFO]: Sending GET request to /products
+2024-11-29 03:03:42 [INFO]: Sending POST request to /products/add
+2024-11-29 03:03:43 [INFO]: Logout handled successfully
+2024-11-29 03:03:43 [INFO]: Sending Invalid Endpoint request
+2024-11-29 03:03:43 [INFO]: GET /products response validated successfully
+2024-11-29 03:03:43 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 03:03:43 [INFO]: POST /products/add validated successfully
+2024-11-29 03:03:43 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 03:03:44 [WARN]: No response body returned for invalid endpoint
+2024-11-29 03:03:44 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 03:03:47 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 03:03:47 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 03:03:47 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 03:03:48 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 03:03:48 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 03:03:48 [INFO]: Starting the test for removing items from cart
+2024-11-29 03:03:48 [INFO]: Successfully removed items from cart
+2024-11-29 03:03:49 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 03:03:49 [INFO]: Navigating to SauceDemo login page
+2024-11-29 03:03:49 [INFO]: Successfully Validated the complete checkout process
+2024-11-29 03:03:50 [INFO]: Testing invalid Username login
+2024-11-29 03:03:50 [INFO]: Testing invalid Password login
+2024-11-29 03:03:50 [INFO]: Invalid Username login handled successfully
+2024-11-29 03:03:50 [INFO]: Invalid Password login handled successfully
+2024-11-29 03:03:51 [INFO]: Testing Logout
+2024-11-29 03:03:51 [INFO]: Testing Locked Out User login
+2024-11-29 03:03:51 [INFO]: Locked out user login test successfully
+2024-11-29 03:03:54 [INFO]: Logout handled successfully
+2024-11-29 03:03:59 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 03:04:09 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 03:04:15 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 03:05:05 [INFO]: Sending POST request to /products/add
+2024-11-29 03:05:05 [INFO]: Sending Invalid Endpoint request
+2024-11-29 03:05:05 [INFO]: Sending GET request to /products
+2024-11-29 03:05:05 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 03:05:06 [INFO]: POST /products/add validated successfully
+2024-11-29 03:05:06 [INFO]: GET /products response validated successfully
+2024-11-29 03:05:06 [WARN]: No response body returned for invalid endpoint
+2024-11-29 03:05:06 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 03:05:06 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 03:05:07 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 03:05:07 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 03:05:08 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 03:05:08 [INFO]: Starting the test for removing items from cart
+2024-11-29 03:05:08 [INFO]: Successfully removed items from cart
+2024-11-29 03:05:08 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 03:05:08 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 03:05:08 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 03:05:08 [INFO]: Navigating to SauceDemo login page
+2024-11-29 03:05:08 [INFO]: Successfully Validated the complete checkout process
+2024-11-29 03:05:09 [INFO]: Testing invalid Username login
+2024-11-29 03:05:09 [INFO]: Testing invalid Password login
+2024-11-29 03:05:09 [INFO]: Testing Logout
+2024-11-29 03:05:09 [INFO]: Invalid Password login handled successfully
+2024-11-29 03:05:09 [INFO]: Invalid Username login handled successfully
+2024-11-29 03:05:10 [INFO]: Sending GET request to /products
+2024-11-29 03:05:10 [INFO]: Testing Locked Out User login
+2024-11-29 03:05:10 [INFO]: Locked out user login test successfully
+2024-11-29 03:05:10 [INFO]: Sending POST request to /products/add
+2024-11-29 03:05:10 [INFO]: Logout handled successfully
+2024-11-29 03:05:10 [INFO]: GET /products response validated successfully
+2024-11-29 03:05:10 [INFO]: Invalid Input for Post /products/add request
+2024-11-29 03:05:10 [INFO]: Sending Invalid Endpoint request
+2024-11-29 03:05:11 [ERROR]: Error during Invalid Input for Post /products/add request test
+2024-11-29 03:05:11 [INFO]: POST /products/add validated successfully
+2024-11-29 03:05:11 [WARN]: No response body returned for invalid endpoint
+2024-11-29 03:05:11 [INFO]: Invalid Endpoint request validated successfully
+2024-11-29 03:05:14 [INFO]: Starting the test for Adding multiple items to cart
+2024-11-29 03:05:14 [INFO]: Starting the test for Sorting Price High to Low
+2024-11-29 03:05:14 [INFO]: Sorting is successfully tested for Product Price High to Low
+2024-11-29 03:05:15 [INFO]: Starting the test for Sorting Name A to Z
+2024-11-29 03:05:15 [INFO]: Sorting is successfully tested for Product Name A to Z
+2024-11-29 03:05:15 [INFO]: Starting the test for removing items from cart
+2024-11-29 03:05:16 [INFO]: Successfully removed items from cart
+2024-11-29 03:05:16 [INFO]: Starting the test for validating Complete Checkout process
+2024-11-29 03:05:16 [INFO]: Successfully Validated the complete checkout process
+2024-11-29 03:05:16 [INFO]: Navigating to SauceDemo login page
+2024-11-29 03:05:17 [INFO]: Testing invalid Username login
+2024-11-29 03:05:17 [INFO]: Invalid Username login handled successfully
+2024-11-29 03:05:17 [INFO]: Testing invalid Password login
+2024-11-29 03:05:17 [INFO]: Invalid Password login handled successfully
+2024-11-29 03:05:18 [INFO]: Testing Logout
+2024-11-29 03:05:18 [INFO]: Testing Locked Out User login
+2024-11-29 03:05:18 [INFO]: Locked out user login test successfully
+2024-11-29 03:05:19 [INFO]: Logout handled successfully
+2024-11-29 03:05:36 [ERROR]: Error during adding multiple items to cart test
+2024-11-29 03:05:42 [ERROR]: Error during adding multiple items to cart test
